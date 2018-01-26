@@ -1,0 +1,1 @@
+-e git://github.com/benkehoe/cfn-transform.git@develop#egg=cfn-transform
