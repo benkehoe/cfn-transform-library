@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='cfn-transform-lib',
     version='0.1.0',
-    description='CloudFormation template transformation',
+    description='CloudFormation template transformations',
     packages=["cfn_transform_lib"],
     author='Ben Kehoe',
     author_email='bkehoe@irobot.com',
